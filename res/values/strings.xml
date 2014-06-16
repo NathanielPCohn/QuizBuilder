@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizBuilder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_fragment">SingleFragmentActivity</string>
+    <string name="generic_quiz_title">My Quiz</string>
+    <string name="title_activity_question_pager">QuestionPagerActivity</string>
+
+</resources>
